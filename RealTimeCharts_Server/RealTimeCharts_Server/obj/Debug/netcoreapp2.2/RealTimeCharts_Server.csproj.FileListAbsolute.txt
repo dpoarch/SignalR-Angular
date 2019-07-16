@@ -1,0 +1,14 @@
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.2\RealTimeCharts_Server.deps.json
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.2\RealTimeCharts_Server.runtimeconfig.json
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.2\RealTimeCharts_Server.runtimeconfig.dev.json
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.2\RealTimeCharts_Server.dll
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.2\RealTimeCharts_Server.pdb
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.csprojAssemblyReference.cache
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.csproj.CoreCompileInputs.cache
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.RazorAssemblyInfo.cache
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.RazorAssemblyInfo.cs
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.AssemblyInfoInputs.cache
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.AssemblyInfo.cs
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.RazorTargetAssemblyInfo.cache
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.dll
+C:\Users\Greeco's\Desktop\realtime-charts-signalr-angular-master\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.2\RealTimeCharts_Server.pdb
